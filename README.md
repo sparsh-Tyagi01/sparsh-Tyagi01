@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sparsh Tyagi
+# Hi there , I'm Sparsh Tyagi
 
 🎓 Second-year CSE student | 💻 Web Developer  
 🌐 Building **NeoStream**, **AI Notes Summarizer**, **Blabber** and more!
