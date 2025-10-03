@@ -33,9 +33,9 @@ I'm passionate about building **modern web apps** and currently diving into the 
 
 ## 📊 GitHub Stats  
 
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparsh-Tyagi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh-Tyagi&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh-Tyagi&theme=tokyonight&hide_border=false)  
+![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparsh-Tyagi01&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh-Tyagi01&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh-Tyagi01&theme=tokyonight&hide_border=false)  
 
 ---
 
