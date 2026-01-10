@@ -9,7 +9,6 @@ I'm passionate about building **modern web apps** and currently diving into the 
 ## 📌 About Me  
 
 - 🎓 B.Tech **CSE Student**  
-- 🌱 Currently learning **Generative AI & Agentic AI**  
 - 🔭 Building **real-world problem-solving projects**  
 - ✨ Love exploring **Web Development + AI integration**  
 
