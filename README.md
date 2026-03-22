@@ -30,7 +30,6 @@ I'm passionate about building **modern web apps** and currently diving into the 
   <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -42,7 +41,6 @@ I'm passionate about building **modern web apps** and currently diving into the 
 
 ## 📊 GitHub Stats  
 
-![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparsh-Tyagi01&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh-Tyagi01&theme=tokyonight&hide_border=false)  
 
 ---
