@@ -1,16 +1,5 @@
-# Hi, I'm Sparsh Tyagi  
-
-**Web Developer | B.Tech CSE Student | Exploring GenAI & Agentic AI**  
-
-I'm passionate about building **modern web apps** and currently diving into the exciting world of **Generative AI** and **Agentic AI**.  
-
----
-
-## 📌 About Me  
-
-- 🎓 B.Tech **CSE Student**  
-- 🔭 Building **real-world problem-solving projects**  
-- ✨ Love exploring **Web Development + AI integration**  
+<h1 align="center">Hi 👋, I'm Sparsh</h1>
+<h3 align="center">A on progress software engineer.</h3>
 
 ---
 
