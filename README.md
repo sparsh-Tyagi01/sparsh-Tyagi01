@@ -39,13 +39,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sparsh-Tyagi01&theme=tokyonight&hide_border=false)  
-
----
-
-## 📈 Contribution Graph
-
-[![Sparsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sparsh-Tyagi01&theme=tokyo-night&hide_border=true)](https://github.com/Sparsh-Tyagi01)
+![GitHub Streak](https://streak-stats.demolab.com?user=sparsh-Tyagi01&theme=tokyonight&hide_border=false)  
 
 ---
 
